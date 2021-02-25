@@ -1,2 +1,2 @@
-# Wacky-Willy-s-Funtime-Play-Land-Game
+# Wacky_Willy's_Funtime_Playland_Game
 A simple text-based game created with python
